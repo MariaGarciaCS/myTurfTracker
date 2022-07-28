@@ -1,5 +1,5 @@
 {
-    "1": {
+    "Back to Eden-BVET": {
         "No": "1",
         "Organization": "Back to Eden",
         "Campaign": "BVET",
@@ -23,7 +23,7 @@
         "Neighborhood Team": "Northeast Houston, Northside/Independence Heights/Acres Homes",
         "": ""
     },
-    "2": {
+    "Bridges To Empowerment-BVET": {
         "No": "2",
         "Organization": "Bridges To Empowerment",
         "Campaign": "BVET",
@@ -47,7 +47,7 @@
         "Neighborhood Team": "Greater East End/North Shore/Pasadena, Southwest Houston/Fort Bend",
         "": ""
     },
-    "3": {
+    "Center for Civic & Public Policy Improvement (CCPPI)-BVET": {
         "No": "3",
         "Organization": "Center for Civic & Public Policy Improvement (CCPPI)",
         "Campaign": "BVET",
@@ -71,7 +71,7 @@
         "Neighborhood Team": "Third Ward/South Union/Sunnyside, Northeast Houston",
         "": ""
     },
-    "4": {
+    "East Harris County Empowerment Council-BVET": {
         "No": "4",
         "Organization": "East Harris County Empowerment Council",
         "Campaign": "BVET",
@@ -95,7 +95,7 @@
         "Neighborhood Team": "N/A - but could offer to put them in Second Ward/North Shore/Pasadena team",
         "": ""
     },
-    "5": {
+    "Engaged Voters-BVET": {
         "No": "5",
         "Organization": "Engaged Voters",
         "Campaign": "BVET",
@@ -119,7 +119,7 @@
         "Neighborhood Team": "Third Ward/South Union/Sunnyside",
         "": ""
     },
-    "6": {
+    "Grassroots Leadership-BVET": {
         "No": "6",
         "Organization": "Grassroots Leadership",
         "Campaign": "BVET",
@@ -143,7 +143,7 @@
         "Neighborhood Team": "Northeast Houston, Northside/Independence Heights/Acres Homes",
         "": ""
     },
-    "7": {
+    "Green House International Church-BVET": {
         "No": "7",
         "Organization": "Green House International Church",
         "Campaign": "BVET",
@@ -167,7 +167,7 @@
         "Neighborhood Team": "Aldine and Greenspoint",
         "": ""
     },
-    "8": {
+    "Gulf Coast Leadership Council-BVET": {
         "No": "8",
         "Organization": "Gulf Coast Leadership Council",
         "Campaign": "BVET",
@@ -191,7 +191,7 @@
         "Neighborhood Team": "Northeast Houston, Third Ward/South Union/Sunnyside",
         "": ""
     },
-    "9": {
+    "Houston Area Urban League (HAUL)-BVET": {
         "No": "9",
         "Organization": "Houston Area Urban League (HAUL)",
         "Campaign": "BVET",
@@ -215,7 +215,7 @@
         "Neighborhood Team": "N/A",
         "": ""
     },
-    "10": {
+    "Houston Justice-BVET": {
         "No": "10",
         "Organization": "Houston Justice",
         "Campaign": "BVET",
@@ -239,7 +239,7 @@
         "Neighborhood Team": "Aldine and Greenspoint, Third Ward/South Union/Sunnyside",
         "": ""
     },
-    "11": {
+    "LINK Houston-BVET": {
         "No": "11",
         "Organization": "LINK Houston",
         "Campaign": "BVET",
@@ -263,7 +263,7 @@
         "Neighborhood Team": "Northeast Houston, Second Ward/North Shore/Pasadena, Northside/Independence Heights/Acres Homes",
         "": "East End, Northshore, Pasadena"
     },
-    "12": {
+    "Mahogany Project-BVET": {
         "No": "12",
         "Organization": "Mahogany Project",
         "Campaign": "BVET",
@@ -287,7 +287,7 @@
         "Neighborhood Team": "Third Ward/South Union/Sunnyside",
         "": ""
     },
-    "13": {
+    "Migrant and Refugee Leadership Academy (MARLA)-BVET": {
         "No": "13",
         "Organization": "Migrant and Refugee Leadership Academy (MARLA)",
         "Campaign": "BVET",
@@ -311,7 +311,7 @@
         "Neighborhood Team": "Southwest Houston",
         "": ""
     },
-    "14": {
+    "Positive Women's Network-BVET": {
         "No": "14",
         "Organization": "Positive Women's Network",
         "Campaign": "BVET",
@@ -335,7 +335,7 @@
         "Neighborhood Team": "Third Ward/South Union/Sunnyside, Northeast Houston, Northside/Independence Heights/Acres Homes/Independence Heights",
         "": "Third Ward, South Union, Sunnyside"
     },
-    "15": {
+    "Pure Justice-BVET": {
         "No": "15",
         "Organization": "Pure Justice",
         "Campaign": "BVET",
@@ -359,7 +359,7 @@
         "Neighborhood Team": "Third Ward/South Union/Sunnsyide, Northeast Houston",
         "": ""
     },
-    "16": {
+    "Texas Federation of the People Foundation -BVET": {
         "No": "16",
         "Organization": "Texas Federation of the People Foundation ",
         "Campaign": "BVET",
@@ -383,7 +383,7 @@
         "Neighborhood Team": "Third Ward/South Union/Sunnyside",
         "": ""
     },
-    "17": {
+    "The Links Inc.-BVET": {
         "No": "17",
         "Organization": "The Links Inc.",
         "Campaign": "BVET",
@@ -407,7 +407,7 @@
         "Neighborhood Team": "Third Ward/South Union/Sunnyside",
         "": ""
     },
-    "18": {
+    "Peoples' Legal Clinic of Houston-BVET": {
         "No": "18",
         "Organization": "Peoples' Legal Clinic of Houston",
         "Campaign": "BVET",
@@ -431,7 +431,7 @@
         "Neighborhood Team": "Third Ward/South Union/Sunnyside",
         "": ""
     },
-    "19": {
+    "Urban Community Network-BVET": {
         "No": "19",
         "Organization": "Urban Community Network",
         "Campaign": "BVET",
@@ -455,7 +455,7 @@
         "Neighborhood Team": "Aldine and Greenspoint",
         "": ""
     },
-    "20": {
+    "WestStreet Recovery-BVET": {
         "No": "20",
         "Organization": "WestStreet Recovery",
         "Campaign": "BVET",
@@ -479,7 +479,7 @@
         "Neighborhood Team": "Northeast Houston",
         "": ""
     },
-    "21": {
+    "Air Alliance Houston-LVET": {
         "No": "21",
         "Organization": "Air Alliance Houston",
         "Campaign": "LVET",
@@ -503,7 +503,7 @@
         "Neighborhood Team": "Any of our neighborhood teams except Southwest Houston",
         "": ""
     },
-    "22": {
+    "Avenue-LVET": {
         "No": "22",
         "Organization": "Avenue",
         "Campaign": "LVET",
@@ -527,7 +527,7 @@
         "Neighborhood Team": "Northside/Independence Heights/Acres Homes",
         "": ""
     },
-    "23": {
+    "BakerRipley-LVET": {
         "No": "23",
         "Organization": "BakerRipley",
         "Campaign": "LVET",
@@ -551,7 +551,7 @@
         "Neighborhood Team": "Second Ward/North Shore/Pasadena",
         "": ""
     },
-    "24": {
+    "Bonding Against Adversity-LVET": {
         "No": "24",
         "Organization": "Bonding Against Adversity",
         "Campaign": "LVET",
@@ -575,7 +575,7 @@
         "Neighborhood Team": "Aldine and Greenspont",
         "": ""
     },
-    "25": {
+    "CRECEN-LVET": {
         "No": "25",
         "Organization": "CRECEN",
         "Campaign": "LVET",
@@ -599,7 +599,7 @@
         "Neighborhood Team": "Southwest Houston",
         "": ""
     },
-    "26": {
+    "East Harris County Empowerment Council-LVET": {
         "No": "26",
         "Organization": "East Harris County Empowerment Council",
         "Campaign": "LVET",
@@ -623,7 +623,7 @@
         "Neighborhood Team": "N/A - but could offer to put them in Second Ward/North Shore/Pasadena team",
         "": ""
     },
-    "27": {
+    "Gulf Coast Leadership Council-LVET": {
         "No": "27",
         "Organization": "Gulf Coast Leadership Council",
         "Campaign": "LVET",
@@ -647,7 +647,7 @@
         "Neighborhood Team": "Northeast Houston, Third Ward/South Union/Sunnyside",
         "": ""
     },
-    "28": {
+    "Jolt Initiative-LVET": {
         "No": "28",
         "Organization": "Jolt Initiative",
         "Campaign": "LVET",
@@ -671,7 +671,7 @@
         "Neighborhood Team": "Second Ward/North Shore/Pasadena",
         "": ""
     },
-    "29": {
+    "Latino Learning Center-LVET": {
         "No": "29",
         "Organization": "Latino Learning Center",
         "Campaign": "LVET",
@@ -695,7 +695,7 @@
         "Neighborhood Team": "Second Ward/North Shore/Pasadena, Northeast Houston, Southwest Houston",
         "": "Southwest Houston, Fort Bend"
     },
-    "30": {
+    "LINK Houston-LVET": {
         "No": "30",
         "Organization": "LINK Houston",
         "Campaign": "LVET",
@@ -719,7 +719,7 @@
         "Neighborhood Team": "Northeast Houston, Second Ward/North Shore/Pasadena, Northside/Independence Heights/Acres Homes",
         "": "Northside, Independence Heights, Acre Homes"
     },
-    "31": {
+    "MECA-LVET": {
         "No": "31",
         "Organization": "MECA",
         "Campaign": "LVET",
@@ -743,7 +743,7 @@
         "Neighborhood Team": "Second Ward/North Shore/Pasadena",
         "": ""
     },
-    "32": {
+    "Mi Familia Vota-LVET": {
         "No": "32",
         "Organization": "Mi Familia Vota",
         "Campaign": "LVET",
@@ -767,7 +767,7 @@
         "Neighborhood Team": "N/A -working in Pct. Two and Pct. Four",
         "": ""
     },
-    "33": {
+    "NALEO Educational Fund-LVET": {
         "No": "33",
         "Organization": "NALEO Educational Fund",
         "Campaign": "LVET",
@@ -791,7 +791,7 @@
         "Neighborhood Team": "N/A",
         "": ""
     },
-    "34": {
+    "Tejano Center for Community Concerns-LVET": {
         "No": "34",
         "Organization": "Tejano Center for Community Concerns",
         "Campaign": "LVET",
@@ -815,7 +815,7 @@
         "Neighborhood Team": "Northside/Independence Heights/Acres Homes, Second Ward/North Shore/Pasadena",
         "": ""
     },
-    "35": {
+    "United We Dream-LVET": {
         "No": "35",
         "Organization": "United We Dream",
         "Campaign": "LVET",
